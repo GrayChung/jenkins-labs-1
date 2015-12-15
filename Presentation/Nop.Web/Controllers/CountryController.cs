@@ -21,7 +21,7 @@ namespace Nop.Web.Controllers
         private readonly ICacheManager _cacheManager;
 
 	    #endregion
-        abstract;;
+
 		#region Constructors
 
         public CountryController(ICountryService countryService, 
